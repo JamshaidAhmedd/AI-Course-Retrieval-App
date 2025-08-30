@@ -1,5 +1,4 @@
 
-
 # 🚀 **AI Course Retrieval App**
 
 **Engineered a full-stack mobile/web app** for exploring online courses. The backend is powered by **Python FastAPI**, providing RESTful endpoints for course data. The frontend is developed using **React Native** for a seamless mobile experience. Features include **search ranking**, **sentiment analysis**, **course API integration**, **JWT authentication**, and **pytest unit tests**.
@@ -29,28 +28,23 @@
 
 Here are the key screenshots of the **AI Course Retrieval App**:
 
-* **Course Details**:
-  ![Course Details](AI%20Course%20Retrieval/course%20details.png)
+* **Course Details**: <img src="AI%20Course%20Retrieval/course%20details.png" width="500" />
 
   * **Course Details** page showing comprehensive information about a specific course, including course description, instructor, and reviews.
 
-* **Explore Courses**:
-  ![Explore](AI%20Course%20Retrieval/explore.png)
+* **Explore Courses**: <img src="AI%20Course%20Retrieval/explore.png" width="500" />
 
   * The **Explore** screen where users can search and discover new courses based on categories and recommendations.
 
-* **Login Page**:
-  ![Login](AI%20Course%20Retrieval/login.png)
+* **Login Page**: <img src="AI%20Course%20Retrieval/login.png" width="500" />
 
   * The **Login** page allowing users to sign in securely.
 
-* **Search Courses**:
-  ![Search](AI%20Course%20Retrieval/search.png)
+* **Search Courses**: <img src="AI%20Course%20Retrieval/search.png" width="500" />
 
   * The **Search** screen for users to input course keywords and search for relevant courses.
 
-* **Sign Up Page**:
-  ![Sign Up](AI%20Course%20Retrieval/sign%20up.png)
+* **Sign Up Page**: <img src="AI%20Course%20Retrieval/sign%20up.png" width="500" />
 
   * The **Sign Up** page for new users to create an account.
 
@@ -121,7 +115,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👥 **Authors**
 
-* **Jamshaid Ahmed**
+* **Your Name**
 * **Contributors welcome!**
 
 ---

@@ -28,23 +28,23 @@
 
 Here are the key screenshots of the **AI Course Retrieval App**:
 
-* **Course Details**: <img src="AI%20Course%20Retrieval/course%20details.png" width="500" />
+* **Course Details**: <img src="AI%20Course%20Retrieval/course%20details.png" width="400" />
 
   * **Course Details** page showing comprehensive information about a specific course, including course description, instructor, and reviews.
 
-* **Explore Courses**: <img src="AI%20Course%20Retrieval/explore.png" width="500" />
+* **Explore Courses**: <img src="AI%20Course%20Retrieval/explore.png" width="400" />
 
   * The **Explore** screen where users can search and discover new courses based on categories and recommendations.
 
-* **Login Page**: <img src="AI%20Course%20Retrieval/login.png" width="500" />
+* **Login Page**: <img src="AI%20Course%20Retrieval/login.png" width="400" />
 
   * The **Login** page allowing users to sign in securely.
 
-* **Search Courses**: <img src="AI%20Course%20Retrieval/search.png" width="500" />
+* **Search Courses**: <img src="AI%20Course%20Retrieval/search.png" width="400" />
 
   * The **Search** screen for users to input course keywords and search for relevant courses.
 
-* **Sign Up Page**: <img src="AI%20Course%20Retrieval/sign%20up.png" width="500" />
+* **Sign Up Page**: <img src="AI%20Course%20Retrieval/sign%20up.png" width="400" />
 
   * The **Sign Up** page for new users to create an account.
 
@@ -115,7 +115,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👥 **Authors**
 
-* **Your Name**
+* **Jamshaid Ahmed**
 * **Contributors welcome!**
 
 ---

@@ -1,5 +1,4 @@
 
----
 
 # 🚀 **AI Course Retrieval App**
 
